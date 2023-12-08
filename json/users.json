@@ -1,0 +1,33 @@
+[
+    {
+      "userid": 1,
+      "name": "Harikrishna",
+      "email": "hari@gmail.com",
+      "mentorid": 1
+    },
+    {
+      "userid": 2,
+      "name": "Naveen",
+      "email": "naveen@gmail.com",
+      "mentorid": 2
+    },
+    {
+      "userid": 3,
+      "name": "Kavin",
+      "email": "kavin@gmail.com",
+      "mentorid": 3
+    },
+    {
+      "userid": 4,
+      "name": "Abi",
+      "email": "abi@gmail.com",
+      "mentorid": 1
+    },
+    {
+      "userid": 5,
+      "name": "vinay",
+      "email": "vinay@gmail.com",
+      "mentorid": 2
+    }
+  ]
+  
