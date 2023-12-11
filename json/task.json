@@ -1,43 +1,78 @@
-[
-    {
-      "taskid": 1,
-      "topicid": 1,
-      "userid": 1,
-      "task": "html task",
-      "due_date": "2020-10-04T00:00:00.000Z",
-      "submitted": true
-    },
-    {
-      "taskid": 2,
-      "topicid": 2,
-      "userid": 2,
-      "task": "css task",
-      "due_date": "2020-10-10T00:00:00.000Z",
-      "submitted": true
-    },
-    {
-      "taskid": 3,
-      "topicid": 3,
-      "userid": 3,
-      "task": "Javascript task",
-      "due_date": "2020-10-15T00:00:00.000Z",
-      "submitted": false
-    },
-    {
-      "taskid": 4,
-      "topicid": 4,
-      "userid": 4,
-      "task": "React task",
-      "due_date": "2020-10-20T00:00:00.000Z",
-      "submitted": false
-    },
-    {
-      "taskid": 5,
-      "topicid": 5,
-      "userid": 5,
-      "task": "Node task",
-      "due_date": "2020-10-25T00:00:00.000Z",
-      "submitted": false
-    }
-  ]
-  
+[{
+  "_id": {
+    "$oid": "657337d39955f27d440140f1"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 1,
+  "task_name": "html task",
+  "due_date": {
+    "$date": "2020-10-03T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "657338349955f27d440140f2"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 2,
+  "task_name": "codekata task",
+  "due_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "657338b39955f27d440140f3"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 3,
+  "task_name": "css task",
+  "due_date": {
+    "$date": "2020-10-25T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "657338d09955f27d440140f4"
+  },
+  "task_id": 4,
+  "topic_id": 4,
+  "user_id": 4,
+  "task_name": "javascript task",
+  "due_date": {
+    "$date": "2020-10-25T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "6573398f9955f27d440140f5"
+  },
+  "task_id": 5,
+  "topic_id": 5,
+  "user_id": 5,
+  "task_name": "advanced js task",
+  "due_date": {
+    "$date": "2020-10-29T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "657339b59955f27d440140f6"
+  },
+  "task_id": 6,
+  "topic_id": 6,
+  "user_id": 6,
+  "task_name": "reactjs task",
+  "due_date": {
+    "$date": "2020-11-02T18:30:00.000Z"
+  },
+  "submitted": false
+}]

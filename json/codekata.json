@@ -1,23 +1,70 @@
-[
-    {
-      "userid": 1,
-      "problems": 10
-    },
-    {
-      "userid": 2,
-      "problems": 40
-    },
-    {
-      "userid": 3,
-      "problems": 20
-    },
-    {
-      "userid": 4,
-      "problems": 50
-    },
-    {
-      "userid": 5,
-      "problems": 70
-    }
-  ]
-  
+[{
+  "_id": {
+    "$oid": "65732692812c09e7b189f595"
+  },
+  "user_id": 1,
+  "problems": 100
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f596"
+  },
+  "user_id": 2,
+  "problems": 150
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f597"
+  },
+  "user_id": 3,
+  "problems": 150
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f598"
+  },
+  "user_id": 4,
+  "problems": 200
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f599"
+  },
+  "user_id": 5,
+  "problems": 200
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f59a"
+  },
+  "user_id": 6,
+  "problems": 50
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f59b"
+  },
+  "user_id": 7,
+  "problems": 300
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f59c"
+  },
+  "user_id": 8,
+  "problems": 250
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f59d"
+  },
+  "user_id": 9,
+  "problems": 200
+},
+{
+  "_id": {
+    "$oid": "65732692812c09e7b189f59e"
+  },
+  "user_id": 10,
+  "problems": 150
+}]
